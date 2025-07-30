@@ -77,14 +77,8 @@ API_KEY=mysecret123
 DEBUGGER=False
 ```
 
-### 5. Ejecuta la aplicación localmente
-```
-uvicorn app.main:app --reload
-```
-🔗 Accede a la documentación Swagger en http://localhost:8000/docs
 
-
-### 6. 🐳 Ejecución con Docker
+### 5. 🐳 Ejecución con Docker
 Debes tener instalado:
 
 -   Docker
