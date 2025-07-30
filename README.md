@@ -53,7 +53,7 @@ cd chat-api
 ### 2. Crea y activa un entorno virtual
 
 ```
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  
 
 ```
@@ -132,7 +132,7 @@ Al iniciar la aplicación, si el proceso cumple las condiciones de seguridad, ve
 ⏳ VS Code debugger can now be attached, press F5 in VS Code ⏳
 ```
 
-- Tener en cuenta en la raiz del proyecto hay un archivo launch.json con la configuracion debe copiarse a la carpeta .vscode del depurador
+- Tener en cuenta en la raiz del proyecto hay un archivo launch.json con la configuracion debe copiarse a la carpeta .vscode del depurador creando un archivo Python Debugger
 
 ---
 
